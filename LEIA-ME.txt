@@ -1,0 +1,9 @@
+CALENDÁRIO JAPONÊS — APLICATIVO WEB
+
+1. Para testar: abra index.html no Chrome, Edge ou Firefox.
+2. Para instalar na tela inicial do Android e usar offline, publique os arquivos em um servidor HTTPS (ex.: GitHub Pages, Netlify). Abra o endereço no Chrome e use o menu > Adicionar à tela inicial / Instalar aplicativo.
+3. O aplicativo não precisa de conta nem de serviços externos. Depois do primeiro carregamento por HTTPS, os arquivos ficam em cache para uso offline.
+4. Datas aceitas: 01/01/1868 até 31/12/2100. As eras japonesas cadastradas começam em 25/01/1868.
+5. Para publicar, envie TODOS os arquivos desta pasta para o mesmo diretório do seu serviço de hospedagem.
+
+NOTA: Abrir index.html diretamente funciona para o calendário, mas a instalação PWA e o cache offline requerem HTTPS ou localhost.
